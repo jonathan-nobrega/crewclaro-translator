@@ -1,0 +1,26 @@
+# Canonical construction terms per language. Keys are concept IDs.
+drywall:
+  en: drywall
+  es: tablaroca
+  pt: drywall
+  pl: płyta gipsowo-kartonowa
+stud:
+  en: stud
+  es: montante
+  pt: montante
+  pl: profil
+joist:
+  en: joist
+  es: vigueta
+  pt: viga
+  pl: legar
+rebar:
+  en: rebar
+  es: varilla
+  pt: vergalhão
+  pl: pręt zbrojeniowy
+punch_list:
+  en: punch list
+  es: lista de pendientes
+  pt: lista de pendências
+  pl: lista usterek
